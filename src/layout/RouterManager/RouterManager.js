@@ -70,13 +70,13 @@ class RouterManager extends Component {
                 this.props.auth.isLoaded?
             <Switch>
                 <Route path="/" exact>
-                <Main/>
+                    <Main/>
                 </Route>
                 <Route path="/login">
-                <LoginPage/>
+                    <LoginPage/>
                 </Route>
                 <Route path="/article/:id">
-                <ViewArticle/>
+                    <ViewArticle/>
                 </Route>
                 <Route path="/new-article" component={AdminOnly(NewArticle, this.props.auth)}>
                 </Route>
