@@ -33,12 +33,12 @@ class Heading extends Component {
     render() {
         return(
             <Navbar expand="md" className={classes.Navbar}>
-                <NavbarBrand href="/" className={classes.NavbarBrand}>Painter's Bootcamp</NavbarBrand>
+                <NavbarBrand tag={Link} to="/" className={classes.NavbarBrand}>Painter's Bootcamp</NavbarBrand>
                 <NavbarToggler onClick={this.toggle}/>
                 <Collapse isOpen={this.state.isOpen} navbar>
                     <Nav className="mr-auto" navbar>
                         <NavItem>
-                            <NavLink href="/new-article" className={classes.NavLink}>New Article</NavLink>
+                            <Link to="/new-article" className={classes.Link}>New Article</Link>
                         </NavItem>
                     </Nav>
                     <div style={{color: "#000000"}}>
