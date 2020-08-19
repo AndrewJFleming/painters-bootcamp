@@ -1,0 +1,43 @@
+.ArticleCard{
+    width: 325px;
+    display: inline-block !important;
+    margin: 15px;
+    border: 1px solid #DFE0DF!important;
+}
+
+.CardImage{
+    max-height: 180px;
+}
+
+.CardBody{
+    padding: 10px 15px 10px 15px;
+    background-color: #DFE0DF;
+}
+
+.CardTitle{
+    font-size: 16px;
+    height: 45px;
+    text-overflow: ellipsis;
+}
+
+.CardTitle a {
+    color: #402E32;
+}
+
+.CardSubtitle{
+    font-size: 12px;
+}
+
+.ArticleLabel{
+    font-size: 14px;
+    padding: 5px 10px 5px 10px;
+    margin: 0 2px;
+    color: #DFE0DF!important;
+    background-color: #402E32!important;
+}
+
+.createDate{
+    margin: 0 2px;
+    color: #DFE0DF!important;
+    background-color: #402E32!important;
+}

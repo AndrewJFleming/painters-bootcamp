@@ -1,0 +1,48 @@
+.Label {
+    float: left;
+    font-size: 12px;
+    color: #402E32!important;
+}
+
+.FormTitle {
+    color: #DFE0DF;
+    float: left;
+}
+
+.FormGroup {
+    color: #DFE0DF!important;
+}
+
+.SectionTitle {
+    margin-top: 20px;
+    color: #DFE0DF!important;
+}
+
+.CardHeader {
+    background-color: #DEA942!important;
+    color: #402E32!important;
+}
+
+.ReactQuill {
+    color: #402E32;
+    background-color: white;
+}
+
+.ImageUploader {
+    color: #402e32b6;
+}
+
+.FeaturedImg {
+    width: 100%;
+    overflow: hidden;
+}
+
+.Button {
+    background-color: #402E32!important;
+    color: #DFE0DF!important;
+}
+
+.Button:hover {
+    background-color: #5c4c4f!important;
+    color: #ffffff!important;
+}

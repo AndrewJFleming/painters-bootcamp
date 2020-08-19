@@ -1,0 +1,42 @@
+.Navbar {
+    background-color: #DFE0DF;
+}
+
+.Navbar li a {
+    color: #000000;
+}
+
+.NavbarBrand {
+    color: #000000;
+}
+
+.DropdownToggle {
+    color: #000000;
+}
+
+.DropdownMenu {
+    background-color: #DFE0DF!important;
+    border: solid 1px #DFE0DF!important;
+}
+
+.DropdownMenu:hover {
+    background-color: #DFE0DF!important;
+}
+
+.DropdownItem:hover {
+    background-color: #DFE0DF!important;
+}
+
+.Button {
+    background-color: #402E32!important;
+    color: #DFE0DF!important;
+}
+
+.Button:hover {
+    background-color: #5c4c4f!important;
+    color: #ffffff!important;
+}
+
+.Link {
+    color: #402E32;
+}
