@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/painters-bootcamp/static/css/main.93cc43ed.chunk.css",
+    "main.js": "/painters-bootcamp/static/js/main.4ed9a5d5.chunk.js",
+    "main.js.map": "/painters-bootcamp/static/js/main.4ed9a5d5.chunk.js.map",
+    "runtime-main.js": "/painters-bootcamp/static/js/runtime-main.84cd9ffa.js",
+    "runtime-main.js.map": "/painters-bootcamp/static/js/runtime-main.84cd9ffa.js.map",
+    "static/css/2.2d13fb73.chunk.css": "/painters-bootcamp/static/css/2.2d13fb73.chunk.css",
+    "static/js/2.6206bdc0.chunk.js": "/painters-bootcamp/static/js/2.6206bdc0.chunk.js",
+    "static/js/2.6206bdc0.chunk.js.map": "/painters-bootcamp/static/js/2.6206bdc0.chunk.js.map",
+    "index.html": "/painters-bootcamp/index.html",
+    "precache-manifest.d5147fb85e78b013b1fe636e6fe0496a.js": "/painters-bootcamp/precache-manifest.d5147fb85e78b013b1fe636e6fe0496a.js",
+    "service-worker.js": "/painters-bootcamp/service-worker.js",
+    "static/css/2.2d13fb73.chunk.css.map": "/painters-bootcamp/static/css/2.2d13fb73.chunk.css.map",
+    "static/css/main.93cc43ed.chunk.css.map": "/painters-bootcamp/static/css/main.93cc43ed.chunk.css.map",
+    "static/js/2.6206bdc0.chunk.js.LICENSE.txt": "/painters-bootcamp/static/js/2.6206bdc0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.84cd9ffa.js",
+    "static/css/2.2d13fb73.chunk.css",
+    "static/js/2.6206bdc0.chunk.js",
+    "static/css/main.93cc43ed.chunk.css",
+    "static/js/main.4ed9a5d5.chunk.js"
+  ]
+}
