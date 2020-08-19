@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "90d9ca65152771e515a699865d06f1ab",
+    "revision": "2a0cb760e046e48d9d3d467322a6c6b9",
     "url": "/painters-bootcamp/index.html"
   },
   {
