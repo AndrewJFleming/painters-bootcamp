@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/painters-bootcamp/static/css/main.23326f0f.chunk.css",
-    "main.js": "/painters-bootcamp/static/js/main.4e8615b2.chunk.js",
-    "main.js.map": "/painters-bootcamp/static/js/main.4e8615b2.chunk.js.map",
+    "main.js": "/painters-bootcamp/static/js/main.b10249e6.chunk.js",
+    "main.js.map": "/painters-bootcamp/static/js/main.b10249e6.chunk.js.map",
     "runtime-main.js": "/painters-bootcamp/static/js/runtime-main.84cd9ffa.js",
     "runtime-main.js.map": "/painters-bootcamp/static/js/runtime-main.84cd9ffa.js.map",
     "static/css/2.2d13fb73.chunk.css": "/painters-bootcamp/static/css/2.2d13fb73.chunk.css",
     "static/js/2.1e08ef73.chunk.js": "/painters-bootcamp/static/js/2.1e08ef73.chunk.js",
     "static/js/2.1e08ef73.chunk.js.map": "/painters-bootcamp/static/js/2.1e08ef73.chunk.js.map",
     "index.html": "/painters-bootcamp/index.html",
-    "precache-manifest.52576f3b3df0716bbcfaf2afeaaf8009.js": "/painters-bootcamp/precache-manifest.52576f3b3df0716bbcfaf2afeaaf8009.js",
+    "precache-manifest.7919a54e0d7595b97604090f547a97b8.js": "/painters-bootcamp/precache-manifest.7919a54e0d7595b97604090f547a97b8.js",
     "service-worker.js": "/painters-bootcamp/service-worker.js",
     "static/css/2.2d13fb73.chunk.css.map": "/painters-bootcamp/static/css/2.2d13fb73.chunk.css.map",
     "static/css/main.23326f0f.chunk.css.map": "/painters-bootcamp/static/css/main.23326f0f.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.2d13fb73.chunk.css",
     "static/js/2.1e08ef73.chunk.js",
     "static/css/main.23326f0f.chunk.css",
-    "static/js/main.4e8615b2.chunk.js"
+    "static/js/main.b10249e6.chunk.js"
   ]
 }
