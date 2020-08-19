@@ -7,7 +7,7 @@ import { auth } from 'firebase';
 
 const uiConfig = {
     signInFlow: 'popup',
-    signInSuccessUrl: '/',
+    signInSuccessUrl: 'painters-bootcamp',
     signInOptions: [
         firebase.auth.GoogleAuthProvider.PROVIDER_ID
     ]
