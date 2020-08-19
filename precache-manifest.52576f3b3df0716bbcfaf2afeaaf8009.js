@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2fb4535893e834b58c9337de3cde24c8",
+    "revision": "b95cd47d62894a96e17e9cbe2c495c16",
     "url": "/painters-bootcamp/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/painters-bootcamp/static/css/2.2d13fb73.chunk.css"
   },
   {
-    "revision": "aff14e0ba2b4c036a3bf",
+    "revision": "7d50c4ef2e16e9698fe0",
     "url": "/painters-bootcamp/static/css/main.23326f0f.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/painters-bootcamp/static/js/2.1e08ef73.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "aff14e0ba2b4c036a3bf",
-    "url": "/painters-bootcamp/static/js/main.b10249e6.chunk.js"
+    "revision": "7d50c4ef2e16e9698fe0",
+    "url": "/painters-bootcamp/static/js/main.4e8615b2.chunk.js"
   },
   {
     "revision": "c3447e680ecb47712e91",
