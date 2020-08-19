@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/painters-bootcamp/static/css/main.23326f0f.chunk.css",
-    "main.js": "/painters-bootcamp/static/js/main.b10249e6.chunk.js",
-    "main.js.map": "/painters-bootcamp/static/js/main.b10249e6.chunk.js.map",
+    "main.css": "/painters-bootcamp/static/css/main.72a66840.chunk.css",
+    "main.js": "/painters-bootcamp/static/js/main.9bdc8e98.chunk.js",
+    "main.js.map": "/painters-bootcamp/static/js/main.9bdc8e98.chunk.js.map",
     "runtime-main.js": "/painters-bootcamp/static/js/runtime-main.84cd9ffa.js",
     "runtime-main.js.map": "/painters-bootcamp/static/js/runtime-main.84cd9ffa.js.map",
     "static/css/2.2d13fb73.chunk.css": "/painters-bootcamp/static/css/2.2d13fb73.chunk.css",
-    "static/js/2.1e08ef73.chunk.js": "/painters-bootcamp/static/js/2.1e08ef73.chunk.js",
-    "static/js/2.1e08ef73.chunk.js.map": "/painters-bootcamp/static/js/2.1e08ef73.chunk.js.map",
+    "static/js/2.5d68df2f.chunk.js": "/painters-bootcamp/static/js/2.5d68df2f.chunk.js",
+    "static/js/2.5d68df2f.chunk.js.map": "/painters-bootcamp/static/js/2.5d68df2f.chunk.js.map",
     "index.html": "/painters-bootcamp/index.html",
-    "precache-manifest.7919a54e0d7595b97604090f547a97b8.js": "/painters-bootcamp/precache-manifest.7919a54e0d7595b97604090f547a97b8.js",
+    "precache-manifest.cd7267c6baeca2de3fe32e12e8dd44d3.js": "/painters-bootcamp/precache-manifest.cd7267c6baeca2de3fe32e12e8dd44d3.js",
     "service-worker.js": "/painters-bootcamp/service-worker.js",
     "static/css/2.2d13fb73.chunk.css.map": "/painters-bootcamp/static/css/2.2d13fb73.chunk.css.map",
-    "static/css/main.23326f0f.chunk.css.map": "/painters-bootcamp/static/css/main.23326f0f.chunk.css.map",
-    "static/js/2.1e08ef73.chunk.js.LICENSE.txt": "/painters-bootcamp/static/js/2.1e08ef73.chunk.js.LICENSE.txt"
+    "static/css/main.72a66840.chunk.css.map": "/painters-bootcamp/static/css/main.72a66840.chunk.css.map",
+    "static/js/2.5d68df2f.chunk.js.LICENSE.txt": "/painters-bootcamp/static/js/2.5d68df2f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.84cd9ffa.js",
     "static/css/2.2d13fb73.chunk.css",
-    "static/js/2.1e08ef73.chunk.js",
-    "static/css/main.23326f0f.chunk.css",
-    "static/js/main.b10249e6.chunk.js"
+    "static/js/2.5d68df2f.chunk.js",
+    "static/css/main.72a66840.chunk.css",
+    "static/js/main.9bdc8e98.chunk.js"
   ]
 }
