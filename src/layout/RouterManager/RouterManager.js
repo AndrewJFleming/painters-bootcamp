@@ -8,7 +8,6 @@ import Main from '../Homepage/Main/Main';
 import ViewArticle from '../ViewArticle/ViewArticle';
 import NewArticle from '../NewArticle/NewArticle';
 import LoginPage from '../LoginPage/LoginPage';
-import SignInSuccess from '../SignInSuccess/SignInSuccess';
 
 import * as firebase from 'firebase';
 
@@ -74,7 +73,6 @@ class RouterManager extends Component {
                 <Route path="/login" component={LoginPage}/>
                 <Route path="/article/:id" component={ViewArticle}/>
                 <Route path="/new-article" component={AdminOnly(NewArticle, this.props.auth)}/>
-                <Route path="/sign-in-success" component={SignInSuccess}/>
             </Switch>
             : ''
             }

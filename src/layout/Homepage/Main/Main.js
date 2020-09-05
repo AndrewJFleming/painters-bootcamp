@@ -1,8 +1,9 @@
 import React, {Component} from 'react';
-import { Container, Card, CardImg, CardTitle, CardSubtitle, CardBody, Badge } from 'reactstrap';
+import { Container, Jumbotron, CardImg, CardTitle, CardSubtitle, CardBody, Badge } from 'reactstrap';
 import firebase from '../../../config/firebase';
 import classes from './Main.module.css';
 
+import Welcome from '../Welcome/Welcome';
 import ArticleCard from '../../../components/ArticleCard/ArticleCard';
 
 const db = firebase.firestore();
@@ -51,7 +52,8 @@ getMyArticles = () => {
     render() {
         return(
             <div>
-                <h1 className={classes.mainTitle}>Painter's Bootcamp</h1>
+                <Welcome/>
+                <h1 className={classes.mainTitle}>Articles</h1>
                 <Container className={classes.Container}>
                     {
                         this.state.isLoaded ?

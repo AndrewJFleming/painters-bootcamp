@@ -13,7 +13,7 @@ function App() {
     <div className="App">
       <Provider store={getReduxStore()}>
         <ReactReduxFirebaseProvider {...getRrfProp()}>
-        <Router basename={'painters-bootcamp'}>
+        <Router>
           <RouterManager/>
         </Router>
         </ReactReduxFirebaseProvider>

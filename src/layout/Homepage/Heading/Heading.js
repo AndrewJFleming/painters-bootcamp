@@ -5,6 +5,7 @@ import { connect } from 'react-redux';
 import firebase from '../../../config/firebase';
 import { Link } from 'react-router-dom';
 import { auth } from 'firebase';
+
 import classes from './Heading.module.css';
 
 class Heading extends Component {
